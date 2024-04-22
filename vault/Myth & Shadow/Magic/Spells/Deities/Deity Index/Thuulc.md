@@ -1,3 +1,6 @@
+---
+---
+
 # Thuulc
 
 **You must have at least 3 [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) to follow Thuulc.**

@@ -1,3 +1,6 @@
+---
+---
+
 # Medium Blunt Weapon
 
 |Properties|

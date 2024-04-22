@@ -1,3 +1,6 @@
+---
+---
+
 # Monster Reactions
 
 When encountering a monster from a random table, usually when [Delving](../Game%20Procedures/Delving.md) or during an [Overland Journey](../Game%20Procedures/Overland%20Journeys.md), if the monster would not clearly be hostile, then you can roll for its reaction.

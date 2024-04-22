@@ -1,3 +1,6 @@
+---
+---
+
 # Heavy
 
 \#Heavy means that the wearer has [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) on all [Dexterity](../../../../../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Checks](../../../../../Game%20Procedures/Check.md), and sinks in water.

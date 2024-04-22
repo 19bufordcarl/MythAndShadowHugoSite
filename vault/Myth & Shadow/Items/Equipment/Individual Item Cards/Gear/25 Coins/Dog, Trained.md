@@ -1,3 +1,6 @@
+---
+---
+
 # Dog, Trained
 
 Humanity’s best friend. 

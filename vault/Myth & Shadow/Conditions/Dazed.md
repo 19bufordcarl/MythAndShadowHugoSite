@@ -1,3 +1,6 @@
+---
+---
+
 # Dazed
 
 If you are dazed you are limited on your [Turn](../Game%20Procedures/Turn.md).

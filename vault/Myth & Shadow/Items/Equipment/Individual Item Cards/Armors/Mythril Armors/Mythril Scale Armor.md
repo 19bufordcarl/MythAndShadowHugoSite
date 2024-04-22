@@ -1,3 +1,6 @@
+---
+---
+
 # Mythril Scale Armor
 
 |Properties|

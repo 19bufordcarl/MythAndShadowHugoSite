@@ -1,3 +1,6 @@
+---
+---
+
 # Holy Water Vial
 
 When applied to a creature from the [Death](../../../../../Magic/Spell%20Domains/Death.md) domain, they take 1d6 [Holy](../../../../../Damage%20Types/Holy.md) damage per [Round](../../../../../Game%20Procedures/Round.md).

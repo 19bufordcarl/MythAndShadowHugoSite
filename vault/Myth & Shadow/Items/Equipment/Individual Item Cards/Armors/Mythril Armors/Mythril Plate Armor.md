@@ -1,3 +1,6 @@
+---
+---
+
 # Mythril Plate Armor
 
 |Properties|

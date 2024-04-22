@@ -1,3 +1,6 @@
+---
+---
+
 # Ranged
 
 \#Ranged means the weapon can be used to make [Ranged Attacks](../../../../../Game%20Procedures/Ranged%20Attack.md) with its specified range.

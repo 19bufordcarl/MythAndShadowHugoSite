@@ -1,3 +1,6 @@
+---
+---
+
 # Experience Points
 
 Experience Points ([XP](Experience%20Points.md)) represents the PCs progression throughout the game. 

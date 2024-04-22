@@ -1,3 +1,6 @@
+---
+---
+
 # 1st Level Spells
 
 |d12|Spells (A-I)|Spells (L-S)|Spells (T-Z)|

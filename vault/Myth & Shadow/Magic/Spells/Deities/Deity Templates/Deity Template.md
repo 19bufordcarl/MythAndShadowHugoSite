@@ -1,3 +1,6 @@
+---
+---
+
 # Deity
 
 **You must have at least X AbilityScore to follow Deity.**

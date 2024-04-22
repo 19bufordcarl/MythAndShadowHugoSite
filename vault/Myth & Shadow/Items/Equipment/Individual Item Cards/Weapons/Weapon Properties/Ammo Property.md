@@ -1,3 +1,6 @@
+---
+---
+
 # Ammo
 
 \#Ammo means that the weapon needs a type of ammunition in order to make an [Attack](../../../../../Game%20Procedures/Attack.md).

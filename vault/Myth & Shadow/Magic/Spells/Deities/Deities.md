@@ -1,3 +1,6 @@
+---
+---
+
 # Deities
 
 A PC can swear faith to a Deity at [Character Creation](../../../Character%20Creation/Character%20Creation%20Walkthrough.md), or over [Downtime](../../../Player%20Characters/Derived%20Statistics/Level.md#Downtime) by visiting a [Temple](../../../Economy/Detailed%20Prices/Relevant%20Prices/Temple%20Services.md) that worships that Deity.

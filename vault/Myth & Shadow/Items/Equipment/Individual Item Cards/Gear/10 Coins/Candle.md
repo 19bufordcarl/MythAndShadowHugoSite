@@ -1,3 +1,6 @@
+---
+---
+
 # Candle
 
 Lasts for 1 hour. Illuminates out 5 feet.

@@ -1,3 +1,6 @@
+---
+---
+
 # Blinded
 
 When blinded, you can’t see and automatically fail any [Check](../Game%20Procedures/Check.md) requiring sight.

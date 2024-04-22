@@ -1,3 +1,6 @@
+---
+---
+
 # Silver Scale Armor
 
 |Properties|

@@ -1,3 +1,6 @@
+---
+---
+
 # Hunting Trap
 
 A hunting trap for the animal of choice, up to a bear. 

@@ -1,3 +1,6 @@
+---
+---
+
 # Adventurer's Pack
 
 **Every adventurer needs this basic gear.** Comes with

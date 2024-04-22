@@ -1,3 +1,6 @@
+---
+---
+
 # Silver Chain Armor
 
 |Properties|

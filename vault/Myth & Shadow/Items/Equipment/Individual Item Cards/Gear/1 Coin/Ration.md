@@ -1,3 +1,6 @@
+---
+---
+
 # Ration
 
 1 day's worth of food. Does not spoil under mundane conditions.

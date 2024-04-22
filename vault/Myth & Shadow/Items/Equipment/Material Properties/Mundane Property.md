@@ -1,3 +1,6 @@
+---
+---
+
 # Mundane Materials
 
 \#Mundane is the default material for weapons, armor, and other items. 

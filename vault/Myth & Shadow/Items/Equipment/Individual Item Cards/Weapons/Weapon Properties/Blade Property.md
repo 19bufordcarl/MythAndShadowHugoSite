@@ -1,3 +1,6 @@
+---
+---
+
 # Blade
 
 \#Blade means that the weapon can be used for [Slashing](../../../../../Damage%20Types/Slashing.md) or [Piercing](../../../../../Damage%20Types/Piercing.md) damage.

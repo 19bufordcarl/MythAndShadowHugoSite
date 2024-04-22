@@ -1,3 +1,6 @@
+---
+---
+
 # Restrained
 
 Your [Movement](../Game%20Procedures/Movement.md) becomes 0, and you can’t benefit from any bonus to your movement.

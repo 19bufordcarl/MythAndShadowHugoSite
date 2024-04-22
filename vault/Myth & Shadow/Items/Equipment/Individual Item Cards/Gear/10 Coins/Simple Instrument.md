@@ -1,3 +1,6 @@
+---
+---
+
 # Simple Instrument
 
 Let's the wielder make a [Charisma](../../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../../../../../Game%20Procedures/Check.md) with [Disadvantage](../../../../../Game%20Procedures/Dice%20Rolls/Disadvantage.md) to amuse listeners.

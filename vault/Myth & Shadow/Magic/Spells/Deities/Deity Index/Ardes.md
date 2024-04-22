@@ -1,3 +1,6 @@
+---
+---
+
 # Ardes
 
 **You must have at least 2 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Ardes.**

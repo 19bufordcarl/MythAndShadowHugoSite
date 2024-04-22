@@ -1,3 +1,6 @@
+---
+---
+
 # Lantern
 
 When the oil is lit, it illuminates out for 60 feet. 

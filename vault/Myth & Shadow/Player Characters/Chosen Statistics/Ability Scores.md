@@ -1,3 +1,6 @@
+---
+---
+
 # Ability Scores
 
 There are 6 ability scores. They cannot go above +10. They cannot go below -5.

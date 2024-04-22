@@ -1,3 +1,6 @@
+---
+---
+
 # Old School Ability Generation
 
 In ye olden days, we rolled 3d6 down the line and those were our ability scores. And we had to memorize this weird chart for what the modifiers were and a bunch of other stuff. For simplicity, we only use modifiers in this game, no roll under so we can this table to generate our abilities.

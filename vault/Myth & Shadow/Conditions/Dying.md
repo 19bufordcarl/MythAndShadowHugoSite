@@ -1,3 +1,6 @@
+---
+---
+
 # Dying
 
 ## Turns Until Death Counter

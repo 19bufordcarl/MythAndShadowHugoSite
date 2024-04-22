@@ -1,3 +1,6 @@
+---
+---
+
 # Coins
 
 Anytime a generic coin is mentioned in this game, it is referring to the Imperial Silver Piece.

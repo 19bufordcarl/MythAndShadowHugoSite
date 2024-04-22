@@ -1,3 +1,6 @@
+---
+---
+
 # Weather
 
 The following tables can be used to generate the weather, consider having one of the encounters on your random tables for [Overland Journeys](../../Game%20Procedures/Overland%20Journeys.md) be that the weather changes. 

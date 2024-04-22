@@ -1,3 +1,6 @@
+---
+---
+
 # Silver Plate Armor
 
 |Properties|

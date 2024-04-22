@@ -1,3 +1,6 @@
+---
+---
+
 # Character Creation Walkthrough
 
 1 coin is 1 Imperial Silver Piece

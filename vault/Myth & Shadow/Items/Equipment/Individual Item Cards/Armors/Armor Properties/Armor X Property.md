@@ -1,3 +1,6 @@
+---
+---
+
 # Armor X
 
 \#ArmorX is the main property of all [Armor](../../../Armor.md) sets.

@@ -1,3 +1,6 @@
+---
+---
+
 # Elemental Hazards
 
 # Fire

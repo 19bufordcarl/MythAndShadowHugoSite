@@ -1,3 +1,6 @@
+---
+---
+
 # Armor Class (aka Attack Class)
 
 **A creature's AC is equal to twice their [Dexterity](../Chosen%20Statistics/Dexterity.md).**

@@ -1,3 +1,6 @@
+---
+---
+
 # Acid Vial
 
 When applied to a creature, it does 1d4 [Acid](../../../../../Damage%20Types/Acid.md) damage per [Round](../../../../../Game%20Procedures/Round.md) for 2 rounds. 

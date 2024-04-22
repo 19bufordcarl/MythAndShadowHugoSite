@@ -1,3 +1,6 @@
+---
+---
+
 # Miscast Spell Levels 1-2
 
 |d12|Miscast|

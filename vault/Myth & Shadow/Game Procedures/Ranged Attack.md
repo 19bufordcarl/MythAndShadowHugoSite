@@ -1,3 +1,6 @@
+---
+---
+
 # Ranged Attack
 
 To make a ranged attack, you make a [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) [Check](Check.md) and compare the result to the target's [Armor Class](../Player%20Characters/Derived%20Statistics/Armor%20Class.md), generally equal to the target's [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md). On a success, you roll damage die according to whatever [Weapon](../Items/Equipment/Weapons.md) you used to make the attack, and add your [Dexterity](../Player%20Characters/Chosen%20Statistics/Dexterity.md) to get the final damage.

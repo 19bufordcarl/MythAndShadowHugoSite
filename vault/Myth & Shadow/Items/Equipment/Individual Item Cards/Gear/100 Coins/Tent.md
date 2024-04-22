@@ -1,3 +1,6 @@
+---
+---
+
 # Tent
 
 Holds 1 creature. 

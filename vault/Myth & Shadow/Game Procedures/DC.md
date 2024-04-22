@@ -1,3 +1,6 @@
+---
+---
+
 # Difficulty Class
 
 The Difficulty Class (DC) represents the number that needs to be rolled on a given [Check](Check.md) for it to be successful. 

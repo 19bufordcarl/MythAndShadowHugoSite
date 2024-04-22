@@ -1,3 +1,6 @@
+---
+---
+
 # Gaera
 
 **You must have at least 2 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) to follow Gaera.**

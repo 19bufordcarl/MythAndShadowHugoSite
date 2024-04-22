@@ -1,3 +1,6 @@
+---
+---
+
 # Reaction
 
 A reaction can be taken at any time during combat when no [Action](Action.md) is occurring.

@@ -1,3 +1,6 @@
+---
+---
+
 # Stabilized
 
 You are no longer [Dying](Dying.md), gain 1 [HP](../Player%20Characters/Derived%20Statistics/Health%20Points.md), but are still [Unconscious](Unconscious.md). 

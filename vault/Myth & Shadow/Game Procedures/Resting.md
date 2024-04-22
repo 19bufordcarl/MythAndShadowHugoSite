@@ -1,3 +1,6 @@
+---
+---
+
 # Resting
 
 Resting is the main way PCs can recover damaged stats and heal conditions.

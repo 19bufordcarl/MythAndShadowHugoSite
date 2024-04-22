@@ -1,3 +1,6 @@
+---
+---
+
 # Small Bladed Weapon
 
 |Properties|

@@ -1,3 +1,6 @@
+---
+---
+
 # Ancestry
 
 Your can absolutely play Myth & Shadow without Ancestries. Ancestries are always, in my opinion, setting specific. This will detail the ancestries for the default setting.

@@ -1,3 +1,6 @@
+---
+---
+
 # Alchemist Kit
 
 The components required to for the user to perform [Alchemy](../../../../../Magic/Alchemy/Alchemy.md). 

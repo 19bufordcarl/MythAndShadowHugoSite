@@ -1,3 +1,6 @@
+---
+---
+
 # Immune
 
 If you are immune to a [Damage Type](../Damage%20Types/!Damage%20Types.md) you take no damage from that type.

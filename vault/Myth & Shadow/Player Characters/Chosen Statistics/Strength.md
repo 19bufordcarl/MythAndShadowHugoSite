@@ -1,3 +1,6 @@
+---
+---
+
 # Strength
 
 Abbreviated as **STR**

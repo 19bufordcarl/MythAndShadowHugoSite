@@ -1,3 +1,6 @@
+---
+---
+
 # Paralyzed
 
 You are [Incapacitated](Incapacitated.md) and can’t speak.

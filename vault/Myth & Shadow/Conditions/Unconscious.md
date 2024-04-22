@@ -1,3 +1,6 @@
+---
+---
+
 # Unconscious
 
 While unconscious you are [Incapacitated](Incapacitated.md), can’t use [Movement](../Game%20Procedures/Movement.md) or speak, and are unaware of your surroundings.

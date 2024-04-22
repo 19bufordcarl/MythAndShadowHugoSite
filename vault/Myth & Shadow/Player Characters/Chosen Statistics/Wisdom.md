@@ -1,3 +1,6 @@
+---
+---
+
 # Wisdom
 
 Abbreviated as **WIS**

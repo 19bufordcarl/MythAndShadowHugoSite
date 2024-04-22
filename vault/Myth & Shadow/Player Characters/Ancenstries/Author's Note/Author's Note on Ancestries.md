@@ -1,3 +1,6 @@
+---
+---
+
 ### A Note About Racism
 
 The history of race in RPGs is undeniably intertwined with our real world's history of racism. I believe it's important to acknowledge this fact before detailing this system any further. I choose the term ancestry because it reads much nicer and detached from the terrible history that the word 'race' has, but it is undeniably related. That being said, I made the system with this in mind.

@@ -1,3 +1,6 @@
+---
+---
+
 # Constitution
 
 Abbreviated as **CON**

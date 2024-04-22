@@ -1,3 +1,6 @@
+---
+---
+
 # Discounts
 
 Optional Rule (Not recommended)

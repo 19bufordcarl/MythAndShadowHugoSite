@@ -1,3 +1,6 @@
+---
+---
+
 # Spell Memorization
 
 A PC can memorize a number of [Spells](Spells.md) equal to 2 times the PCs [Intelligence](../Player%20Characters/Chosen%20Statistics/Intelligence.md) stat.

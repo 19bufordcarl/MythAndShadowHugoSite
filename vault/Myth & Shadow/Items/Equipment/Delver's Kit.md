@@ -1,3 +1,6 @@
+---
+---
+
 # Delver's Kit
 
 A delver's kit costs 200 coins, and every new character can start with one. It contains:

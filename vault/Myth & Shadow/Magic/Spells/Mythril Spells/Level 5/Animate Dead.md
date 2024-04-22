@@ -1,3 +1,6 @@
+---
+---
+
 # Animate Dead
 
 |Level|[5th Level Spell](../../../Spell%20Level.md)|

@@ -1,3 +1,6 @@
+---
+---
+
 # Oroken
 
 **You must have at least 3 [Wisdom](../../../../Player%20Characters/Chosen%20Statistics/Wisdom.md) to follow Oroken.**

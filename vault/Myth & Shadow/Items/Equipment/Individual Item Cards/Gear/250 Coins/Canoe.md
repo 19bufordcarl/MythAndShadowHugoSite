@@ -1,3 +1,6 @@
+---
+---
+
 # Canoe and Oars
 
 A floatation device capable of carrying up to 2 PCs in [Plate Armor](../../Armors/Mundane%20Armors/Plate%20Armor.md) across water.

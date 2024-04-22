@@ -1,3 +1,6 @@
+---
+---
+
 # Mythril Chain Armor
 
 |Properties|

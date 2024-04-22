@@ -1,3 +1,6 @@
+---
+---
+
 # Protection From Elements
 
 |Level|[3rd Level Spell](../../../Spell%20Level.md)|

@@ -1,3 +1,6 @@
+---
+---
+
 # Horse, War
 
 Trained for agility and bravery.

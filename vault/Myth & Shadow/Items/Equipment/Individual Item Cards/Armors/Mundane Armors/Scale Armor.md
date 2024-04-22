@@ -1,3 +1,6 @@
+---
+---
+
 # Scale Armor
 
 |Properties|

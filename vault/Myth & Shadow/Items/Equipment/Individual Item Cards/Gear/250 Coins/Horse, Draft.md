@@ -1,3 +1,6 @@
+---
+---
+
 # Horse, Draft
 
 Can be used to pull a [Wagon](Wagon.md). 

@@ -1,3 +1,6 @@
+---
+---
+
 # Fatigue Points
 
 ##### Your max FP is equal to [Level](Level.md) + ([Constitution](../Chosen%20Statistics/Constitution.md) x 2)

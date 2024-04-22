@@ -1,3 +1,6 @@
+---
+---
+
 ## Ostler
 
 |Item / Service|Slots|Cost|

@@ -1,3 +1,6 @@
+---
+---
+
 # Caltrops (bag)
 
 A bag of tiny metal spikes. 

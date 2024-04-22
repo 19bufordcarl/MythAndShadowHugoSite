@@ -1,3 +1,6 @@
+---
+---
+
 # Medium Bladed Weapon
 
 |Properties|

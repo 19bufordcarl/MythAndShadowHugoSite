@@ -1,3 +1,6 @@
+---
+---
+
 # Scars
 
 Scars are gained whenever a PC loses 5 or more [Health Points](Health%20Points.md) from a single hit. Each scar a PC has reduces that PCs [Constitution](../Chosen%20Statistics/Constitution.md) by 1, and that player should change the description of the PC slightly to reflect this scar.

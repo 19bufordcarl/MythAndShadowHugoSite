@@ -1,3 +1,6 @@
+---
+---
+
 # Heal Wounds
 
 |Level|1st [Level Spell](../../../Spell%20Level.md)|

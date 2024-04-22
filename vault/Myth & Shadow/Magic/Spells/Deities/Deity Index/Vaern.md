@@ -1,3 +1,6 @@
+---
+---
+
 # Vaern
 
 **You must have at least 3 [Charisma](../../../../Player%20Characters/Chosen%20Statistics/Charisma.md) to follow Vaern.**

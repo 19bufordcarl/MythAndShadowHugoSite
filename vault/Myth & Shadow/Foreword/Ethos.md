@@ -1,3 +1,6 @@
+---
+---
+
 # Ethos
 
 \#TODO update with new thoughts

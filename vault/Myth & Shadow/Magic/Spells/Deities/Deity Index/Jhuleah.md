@@ -1,3 +1,6 @@
+---
+---
+
 # Jhuleah
 
 **You must have at least 2 [Intelligence](../../../../Player%20Characters/Chosen%20Statistics/Intelligence.md) to follow Jhuleah.**

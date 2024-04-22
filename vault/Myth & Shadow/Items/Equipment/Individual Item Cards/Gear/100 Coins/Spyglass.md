@@ -1,3 +1,6 @@
+---
+---
+
 # Spyglass
 
 Grants the wielder [Advantage](../../../../../Game%20Procedures/Dice%20Rolls/Advantage.md) on [Checks](../../../../../Game%20Procedures/Check.md) to see things very far away.

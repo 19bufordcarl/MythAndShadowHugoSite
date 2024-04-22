@@ -1,3 +1,6 @@
+---
+---
+
 # Raft
 
 A floatation device capable of carrying up to 1 PC in [Plate Armor](../../Armors/Mundane%20Armors/Plate%20Armor.md) across water.

@@ -1,3 +1,6 @@
+---
+---
+
 # Blank Book
 
 A blank book with 50 pages.

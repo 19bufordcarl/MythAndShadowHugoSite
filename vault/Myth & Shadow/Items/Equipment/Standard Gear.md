@@ -1,3 +1,6 @@
+---
+---
+
 # Standard Gear
 
 Standard gear is a list of all the [Mundane](Material%20Properties/Mundane%20Property.md) items PCs are expected to use in normal play.

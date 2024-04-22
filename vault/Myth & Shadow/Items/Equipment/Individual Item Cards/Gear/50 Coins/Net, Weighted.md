@@ -1,3 +1,6 @@
+---
+---
+
 # Net, Weighted
 
 A sufficiently tough and weighted net for [Combat](../../../../../Game%20Procedures/Combat.md) use.

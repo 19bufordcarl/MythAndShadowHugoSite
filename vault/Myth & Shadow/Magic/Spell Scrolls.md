@@ -1,3 +1,6 @@
+---
+---
+
 # Spell Scrolls
 
 [Spell Scrolls](Spell%20Scrolls.md) are created by mages using [Mythril](Mythril.md) infused ink. Mages will usually put this individual pages together in a [Spell Book](../Items/Equipment/Individual%20Item%20Cards/Gear/100%20Coins/Blank%20Book.md), but they can be loose.

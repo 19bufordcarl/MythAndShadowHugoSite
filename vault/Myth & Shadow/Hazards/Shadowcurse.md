@@ -1,3 +1,6 @@
+---
+---
+
 # Shadowcurse
 
 The Shadowcurse is a setting specific optional rule. It ***does apply*** in the default setting. 

@@ -1,3 +1,6 @@
+---
+---
+
 # Carry Capacity
 
 This game uses an [Item Slot](Item%20Slots.md) system (think Minecraft). An item slot is an abstracted unit of weight / space combined for ease of inventory management. 

@@ -1,3 +1,6 @@
+---
+---
+
 ## Arcane Guild
 
 |Arcane Service|Time to Complete|Cost|

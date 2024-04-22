@@ -1,3 +1,6 @@
+---
+---
+
 # Light Armor
 
 |Properties|

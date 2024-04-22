@@ -1,3 +1,6 @@
+---
+---
+
 # Morale
 
 Morale is the system to handle when NPCs will attempt to flee or surrender. 

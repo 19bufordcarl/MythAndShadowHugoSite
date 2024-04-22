@@ -1,3 +1,6 @@
+---
+---
+
 # Check
 
 A check is made to resolve an uncertain situation with stakes. (Also known as a "roll").

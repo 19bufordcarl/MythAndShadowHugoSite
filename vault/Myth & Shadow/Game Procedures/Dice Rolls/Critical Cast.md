@@ -1,3 +1,6 @@
+---
+---
+
 # Critical Cast
 
 When making [A Spellcasting Roll](../../Magic/Spellcasting.md#The%20Spellcasting%20Roll) if you rolled a [Critical Success](Critical%20Success.md), you can do a critical cast.

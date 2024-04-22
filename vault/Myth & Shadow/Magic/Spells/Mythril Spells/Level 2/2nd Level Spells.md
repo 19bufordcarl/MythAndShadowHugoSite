@@ -1,3 +1,6 @@
+---
+---
+
 # 2nd Level Spells
 
 |D12|Spells (A-I)|Spells (H-We)|Spell (Wi-Z)|

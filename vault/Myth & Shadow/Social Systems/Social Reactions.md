@@ -1,3 +1,6 @@
+---
+---
+
 # Social Reactions
 
 In general, the expectation is that most behavior is handled by PCs roleplaying and when an NPCs reaction to a player request is uncertain, a simple [Charisma](../Player%20Characters/Chosen%20Statistics/Charisma.md) [Check](../Game%20Procedures/Check.md) can be called for with a [DC](../Game%20Procedures/DC.md) set by the referee given the context, and the result of the roll influences the reaction.

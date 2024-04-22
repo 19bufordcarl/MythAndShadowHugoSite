@@ -1,3 +1,6 @@
+---
+---
+
 # Mythic Spells
 
 |D12|Spells (A-I)|Spells (K-Z)|

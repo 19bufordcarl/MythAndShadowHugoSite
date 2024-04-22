@@ -1,3 +1,6 @@
+---
+---
+
 # Intelligence
 
 Abbreviated as **INT**

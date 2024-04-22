@@ -1,3 +1,6 @@
+---
+---
+
 # Sling Stone
 
 A sling stone is the ammo type used by a [Sling](../Ranged%20Weapons/Sling.md).

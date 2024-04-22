@@ -1,3 +1,6 @@
+---
+---
+
 # Augury
 
 |Level|2nd [Level Spell](../../../Spell%20Level.md)|

@@ -1,3 +1,6 @@
+---
+---
+
 # Fetters
 
 Metal shackles that can be used to [Restrain](../../../../../Conditions/Restrained.md) a willing or [Incapacitated](../../../../../Conditions/Incapacitated.md) creature to the floor.

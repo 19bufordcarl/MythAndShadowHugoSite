@@ -1,3 +1,6 @@
+---
+---
+
 # True Resurrection
 
 |Level|Mythic #MythicSpell|

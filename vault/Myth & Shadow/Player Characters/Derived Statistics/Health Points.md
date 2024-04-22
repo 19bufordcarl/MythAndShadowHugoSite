@@ -1,3 +1,6 @@
+---
+---
+
 # Health Points
 
 ##### Your max HP is equal to 10 + your [Constitution](../Chosen%20Statistics/Constitution.md)

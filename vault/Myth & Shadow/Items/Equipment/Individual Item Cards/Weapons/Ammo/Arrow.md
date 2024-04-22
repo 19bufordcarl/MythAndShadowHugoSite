@@ -1,3 +1,6 @@
+---
+---
+
 # Arrow
 
 An arrow is the ammo type used by [Short bows](../Ranged%20Weapons/Shortbow.md), [Long bows](../Ranged%20Weapons/Longbow.md), and other manually drawn bows.

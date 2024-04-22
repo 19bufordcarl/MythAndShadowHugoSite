@@ -1,3 +1,6 @@
+---
+---
+
 # Silvered Materials
 
 Silvered [Weapons](../Weapons.md), [Armor](../Armor.md), and [Ammo](../Individual%20Item%20Cards/Weapons/Weapon%20Properties/Ammo%20Property.md) can be enchanted.

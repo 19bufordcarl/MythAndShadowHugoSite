@@ -1,3 +1,6 @@
+---
+---
+
 # Bolt
 
 A bolt is the ammo type used by [Light Crossbows](../Ranged%20Weapons/Light%20Crossbow.md), [Heavy Crossbows](../Ranged%20Weapons/Heavy%20Crossbow.md), and other mechanically drawn bows.

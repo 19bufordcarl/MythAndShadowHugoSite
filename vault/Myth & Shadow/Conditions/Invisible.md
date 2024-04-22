@@ -1,3 +1,6 @@
+---
+---
+
 # Invisible
 
 You are impossible to see without the aid of magic or a special sense. Your location can be detected by any noise you make or any tracks you leave.

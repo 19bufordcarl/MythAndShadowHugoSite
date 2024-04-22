@@ -1,3 +1,6 @@
+---
+---
+
 # Light Crossbow
 
 |Properties|

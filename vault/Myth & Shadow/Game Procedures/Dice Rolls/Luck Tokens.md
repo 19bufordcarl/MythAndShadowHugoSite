@@ -1,3 +1,6 @@
+---
+---
+
 # Luck Tokens (Reroll)
 
 A PC can spend a Luck Token to reroll any [Check](../Check.md) and must use the new result.
